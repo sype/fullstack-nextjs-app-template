@@ -4,9 +4,9 @@ const { PHASE_DEVELOPMENT_SERVER } = require('next/constants')
 const isProd = process.env.NODE_ENV === 'production';
 
 // Docker deployment
-// To add support for Docker to an existing project, 
+// To add support for Docker to an existing project,
 // you can directly set the `dockerDeploymentEnabled` property to `true`
-const dockerDeploymentEnabled = false;
+const dockerDeploymentEnabled = true;
 
 // Static Exports
 let exportHtmlEnabled = process.env.EXPORT_ENABLED == 'false' ? false : true;
