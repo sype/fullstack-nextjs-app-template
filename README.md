@@ -1551,3 +1551,4 @@ Licensed under the [MIT](https://opensource.org/licenses/MIT).
 # Full Pipeline Test - Jeu 15 jan 2026 14:57:19 AST
 
 # Webhook Disabled Test - Jeu 15 jan 2026 15:48:48 AST
+# Test disconnect - Ven 16 jan 2026 08:25:31 AST
